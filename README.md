@@ -17,7 +17,7 @@
 </details>
 
 <div style="text-align: center;">
-  <img src="https://github.com/otoneko1102/anywhere-search/blob/main/icons/128x128.png?raw=true" alt="Logo" style="display: block; width: auto; height: 128px;">
+  <img src="https://github.com/otnc/anywhere-search/blob/main/icons/128x128.png?raw=true" alt="Logo" style="display: block; width: auto; height: 128px;">
 </div>
 
 ### Teams
@@ -26,7 +26,7 @@
 
 ### Download
 - ~~Chrome Webstore~~
-- [GitHub Releases](https://github.com/otoneko1102/anywhere-search/releases)
+- [GitHub Releases](https://github.com/otnc/anywhere-search/releases)
 
 ## Get Support
 <a href="https://discord.gg/yKW8wWKCnS"><img src="https://discordapp.com/api/guilds/1005287561582878800/widget.png?style=banner4" alt="Discord Banner"/></a>
