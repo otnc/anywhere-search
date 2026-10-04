@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", () => {
   setupInstantSave(searchModeRadios, "searchMode", "updateSearchMode");
 
   visitTutorialButton.addEventListener("click", () => {
-    window.open(`https://anywhere-search.commonjs.work/${chrome.i18n.getMessage("LangCode") || "en"}.html`);
+    window.open(`https://otnc.github.io/anywhere-search/${chrome.i18n.getMessage("LangCode") || "en"}.html`);
   });
 
   openShortcutsButton.addEventListener("click", () => {

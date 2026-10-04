@@ -38,11 +38,11 @@ chrome.runtime.onInstalled.addListener((details) => {
       ]
     };
     chrome.storage.sync.set(data, () => {
-      chrome.tabs.create({ url: `https://anywhere-search.commonjs.work/${chrome.i18n.getMessage("LangCode")}.html`, active: true });
+      chrome.tabs.create({ url: `https://otnc.github.io/anywhere-search/${chrome.i18n.getMessage("LangCode")}.html`, active: true });
     });
   }
 
   if (details.reason === "update") {
-    // chrome.tabs.create({ url: `https://anywhere-search.commonjs.work/${chrome.i18n.getMessage("LangCode")}.html`, active: true });
+    // chrome.tabs.create({ url: `https://otnc.github.io/anywhere-search/${chrome.i18n.getMessage("LangCode")}.html`, active: true });
   }
 });

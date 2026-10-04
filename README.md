@@ -20,13 +20,6 @@
   <img src="https://github.com/otnc/anywhere-search/blob/main/icons/128x128.png?raw=true" alt="Logo" style="display: block; width: auto; height: 128px;">
 </div>
 
-### Teams
-<a href="https://oto.pet/"><img src="https://www.otoneko.cat/img/logo.png" alt="OTONEKO.CAT" style="display: block; width: auto; height: 100px;"/></a>
-<a href="https://www.otoho.me/"><img src="https://www.otoho.me/img/logo.png" alt="Oto Home" style="display: block; width: auto; height: 100px;"/></a>
-
 ### Download
-- ~~Chrome Webstore~~
+- [Chrome Webstore](https://chromewebstore.google.com/detail/kfmamlgbolcnplllcjpkmjfjmgcjghml)
 - [GitHub Releases](https://github.com/otnc/anywhere-search/releases)
-
-## Get Support
-<a href="https://discord.gg/yKW8wWKCnS"><img src="https://discordapp.com/api/guilds/1005287561582878800/widget.png?style=banner4" alt="Discord Banner"/></a>

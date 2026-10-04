@@ -3,7 +3,7 @@
   window.anywhereSearchInjected = true;
 
   // Open Shortcuts
-  if (location.hostname === "anywhere-search.commonjs.work") {
+  if (location.hostname === "otnc.github.io/anywhere-search") {
     const openShortcuts = document.getElementById("open-shortcuts");
     openShortcuts.addEventListener("click", (event) => {
       event.preventDefault();
